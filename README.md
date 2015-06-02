@@ -2,7 +2,7 @@
 The best chrome extension for MIT Media Lab students 
 
 ## Install 
-Navigate to *chrome://extensions*
-Expand the developer dropdown menu and click *"Load Unpacked Extension"*
-Navigate to local folder
-Assuming there are no errors, the extension should load into your browser
+1. Navigate to *chrome://extensions*
+2. Expand the developer dropdown menu and click *"Load Unpacked Extension"*
+3. Navigate to local folder
+4. Assuming there are no errors, the extension should load into your browser
