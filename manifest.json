@@ -1,0 +1,15 @@
+{
+  "manifest_version" : 2,
+  "name": "Food Cam!",
+  "version": "1.0",
+  "description": "Free food are better.",
+   "background": {
+       "scripts": ["background.js"]
+   },
+  "browser_action": {
+    "default_icon": "media.png",
+    "popup": "index.html"
+  }, "permissions": [
+    "notifications","http://*/*", "https://*/*"
+    ]
+}
