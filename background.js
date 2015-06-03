@@ -24,7 +24,8 @@ function notify(imgUrl) {
 
     var notification = new Notification('FoodCam', {
       icon: 'media.png',
-      imageUrl: imgUrl,
+     // imageUrl: imgUrl,
+      imageUrl: 'media.png',
       body: "There is something to eat !",
     });
 
